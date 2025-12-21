@@ -23,8 +23,8 @@
   <a href="https://peerlist.io/forgewithharsh">
     <img src="https://img.shields.io/badge/Peerlist-00C853?style=flat&logo=peerlist&logoColor=white" style="margin-right:6px;" />
   </a>
-  <img src="https://img.shields.io/badge/Commits-Conventional-brightgreen" style="margin-right:6px;" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  <a href="https://www.conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Commits-Conventional-brightgreen" style="margin-right:6px;" /></a>
+  <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-blue" /></a>
 </p>
 
 ---
