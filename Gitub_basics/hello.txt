@@ -1,1 +1,2 @@
 This folder documents my hands-on Git and GitHub practice. 
+Tested core commands: init, add, commit.
