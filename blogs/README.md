@@ -45,7 +45,17 @@ All articles are available at:
 
   <a href="https://inside-git-how-the-git-folder-works.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder">
       <p align=center>
-      <img width = "500px" alt="Git for Beginners: Basics and Essential Commands!" src="./assets/b2-banner.png">
+      <img width = "500px" alt="Inside Git!" src="./assets/b2-banner.png">
+    <p>
+  </a>
+
+<br>
+
+### [Why Version Control Exists: The Pendrive Problem](https://from-pendrive-to-git.hashnode.dev/why-version-control-exists-the-pendrive-problem)
+
+  <a href="https://from-pendrive-to-git.hashnode.dev/why-version-control-exists-the-pendrive-problem">
+      <p align=center>
+      <img width = "500px" alt="The Pendrive Problem!" src="./assets/b3-banner.png">
     <p>
   </a>
 
