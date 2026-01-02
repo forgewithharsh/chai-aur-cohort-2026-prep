@@ -14,26 +14,38 @@ These blogs focus on **core web concepts, networking fundamentals, and essential
 
 ### What This Collection Represents
 
-- A learning log backed by hands-on exploration  
-- Clear, beginner-friendly explanations of foundational topics  
-- Emphasis on *why* things work, not just *how*  
-- Concepts broken down through real-world analogies and visuals  
+- A learning log backed by hands-on exploration
+- Clear, beginner-friendly explanations of foundational topics
+- Emphasis on _why_ things work, not just _how_
+- Concepts broken down through real-world analogies and visuals
 
 ### Writing Approach
 
 Each article is written after deliberate study and experimentation, with a focus on:
-- Simplicity over jargon  
-- Accuracy over abstraction  
-- Fundamentals over frameworks  
+
+- Simplicity over jargon
+- Accuracy over abstraction
+- Fundamentals over frameworks
 
 ### Read the Blogs
 
-All articles are available at:  
+All articles are available at:
+
 ### [Git for Beginners — Basics and Essential Commands](https://git-basics-from-chaos-to-collaboration.hashnode.dev/understanding-git-from-collaboration-chaos-to-version-control)
 
   <a href="https://git-basics-from-chaos-to-collaboration.hashnode.dev/understanding-git-from-collaboration-chaos-to-version-control">
       <p align=center>
       <img width = "500px" alt="Git for Beginners: Basics and Essential Commands!" src="./assets/b1-banner.png">
+    <p>
+  </a>
+
+<br>
+
+### [Inside Git: How It Works and the Role of the .git Folder](https://inside-git-how-the-git-folder-works.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
+
+  <a href="https://inside-git-how-the-git-folder-works.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder">
+      <p align=center>
+      <img width = "500px" alt="Git for Beginners: Basics and Essential Commands!" src="./assets/b2-banner.png">
     <p>
   </a>
 
