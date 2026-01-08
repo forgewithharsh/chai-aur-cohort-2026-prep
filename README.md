@@ -13,19 +13,19 @@
 <p align="center">
   <a href="https://x.com/forgewithharsh">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" style="margin-right:6px;" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/forgewithharsh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="margin-right:6px;" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:forgewithharsh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" style="margin-right:6px;" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://peerlist.io/forgewithharsh">
     <img src="https://img.shields.io/badge/Peerlist-00C853?style=flat&logo=peerlist&logoColor=white" style="margin-right:6px;" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.conventionalcommits.org/en/v1.0.0/">
   <img src="https://img.shields.io/badge/Commits-Conventional-brightgreen" style="margin-right:6px;" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://choosealicense.com/licenses/mit/">
   <img src="https://img.shields.io/badge/License-MIT-blue" />
   </a>
