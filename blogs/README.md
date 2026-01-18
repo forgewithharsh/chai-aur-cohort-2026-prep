@@ -61,6 +61,16 @@ All articles are available at:
 
 <br>
 
+### [CURL Command-Line Tool : Explained for Beginners](https://curl-for-beginners-explained-simply.hashnode.dev/curl-command-line-tool-explained-for-beginners?t=1768718387819)
+
+  <a href="https://curl-for-beginners-explained-simply.hashnode.dev/curl-command-line-tool-explained-for-beginners?t=1768718387819">
+      <p align=center>
+      <img width = "500px" alt="The Pendrive Problem!" src="./assets/b4-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
