@@ -65,7 +65,17 @@ All articles are available at:
 
   <a href="https://curl-for-beginners-explained-simply.hashnode.dev/curl-command-line-tool-explained-for-beginners?t=1768718387819">
       <p align=center>
-      <img width = "500px" alt="The Pendrive Problem!" src="./assets/b4-banner.png">
+      <img width = "500px" alt="CURL Command-Line Tool!" src="./assets/b4-banner.png">
+    <p>
+  </a>
+
+<br>
+
+### [Understanding Network Devices: Modem, Router, Switch Explained Simply](https://how-internet-reaches-our-device.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply?showSharer=true)
+
+  <a href="https://how-internet-reaches-our-device.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply?showSharer=true">
+      <p align=center>
+      <img width = "500px" alt="Understanding Network Devices!" src="./assets/b5-banner.png">
     <p>
   </a>
 
