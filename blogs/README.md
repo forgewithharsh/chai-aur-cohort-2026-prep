@@ -101,6 +101,16 @@ All articles are available at:
 
 <br>
 
+### [TCP Working: 3-Way Handshake & Reliable Communication](https://tcp-for-beginners-how-data-travels.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+
+  <a href="https://tcp-for-beginners-how-data-travels.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication">
+      <p align=center>
+      <img width = "500px" alt="TCP Working: 3-Way Handshake!" src="./assets/b8-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
