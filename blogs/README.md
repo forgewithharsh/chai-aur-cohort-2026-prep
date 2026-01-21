@@ -53,7 +53,7 @@ All articles are available at:
 
 ### [Why Version Control Exists: The Pendrive Problem](https://learn-web-dev-with-harsh.hashnode.dev/why-version-control-exists-the-pendrive-problem)
 
-  <a href="https://from-pendrive-to-git.hashnode.dev/why-version-control-exists-the-pendrive-problem">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/why-version-control-exists-the-pendrive-problem">
       <p align=center>
       <img width = "500px" alt="The Pendrive Problem!" src="./assets/b3-banner.png">
     <p>
