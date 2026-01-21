@@ -71,9 +71,9 @@ All articles are available at:
 
 <br>
 
-### [Understanding Network Devices: Modem, Router, Switch Explained Simply](https://how-internet-reaches-our-device.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply?showSharer=true)
+### [Understanding Network Devices: Modem, Router, Switch Explained Simply](https://learn-web-dev-with-harsh.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply)
 
-  <a href="https://how-internet-reaches-our-device.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply?showSharer=true">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/understanding-network-devices-modem-router-switch-explained-simply">
       <p align=center>
       <img width = "500px" alt="Understanding Network Devices!" src="./assets/b5-banner.png">
     <p>
