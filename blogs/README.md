@@ -81,9 +81,9 @@ All articles are available at:
 
 <br>
 
-### [How DNS Resolution Works](https://dns-basics-explained-simply.hashnode.dev/how-dns-resolution-works?t=1768799536900)
+### [How DNS Resolution Works](https://learn-web-dev-with-harsh.hashnode.dev/how-dns-resolution-works)
 
-  <a href="https://dns-basics-explained-simply.hashnode.dev/how-dns-resolution-works?t=1768799536900">
+  <a href="https://learn-web-dev-with-harsh.hashnode.dev/how-dns-resolution-works">
       <p align=center>
       <img width = "500px" alt="DNS Resolution!" src="./assets/b6-banner.png">
     <p>
