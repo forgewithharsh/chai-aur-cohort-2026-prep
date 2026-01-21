@@ -31,7 +31,7 @@ Each article is written after deliberate study and experimentation, with a focus
 
 All articles are available at:
 
-### [Git for Beginners — Basics and Essential Commands](https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands)
+### [Git for Beginners: Basics and Essential Commands](https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands)
 
   <a href="https://learn-web-dev-with-harsh.hashnode.dev/git-for-beginners-basics-and-essential-commands">
       <p align=center>
