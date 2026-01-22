@@ -121,6 +121,16 @@ All articles are available at:
 
 <br>
 
+### [How to Connect a Custom Domain to Hashnode (Beginner-Friendly Guide)](https://learn-with-harsh.hashnode.dev/how-to-connect-a-custom-domain-to-hashnode-beginner-friendly-guide)
+
+  <a href="https://learn-with-harsh.hashnode.dev/how-to-connect-a-custom-domain-to-hashnode-beginner-friendly-guide">
+      <p align=center>
+      <img width = "500px" alt="Connect a Custom Domain to Hashnode!" src="./assets/b10-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
