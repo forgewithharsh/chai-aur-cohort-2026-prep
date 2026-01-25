@@ -131,6 +131,16 @@ All articles are available at:
 
 <br>
 
+### [Emmet in HTML for Beginners: Write Faster Code with Simple Shortcuts](https://learn-with-harsh.hashnode.dev/emmet-in-html-for-beginners-write-faster-code-with-simple-shortcuts)
+
+  <a href="https://learn-with-harsh.hashnode.dev/emmet-in-html-for-beginners-write-faster-code-with-simple-shortcuts">
+      <p align=center>
+      <img width = "500px" alt="Connect a Custom Domain to Hashnode!" src="./assets/b11-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
