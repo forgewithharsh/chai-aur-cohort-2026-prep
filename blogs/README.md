@@ -141,6 +141,16 @@ All articles are available at:
 
 <br>
 
+### [Understanding HTML Tags and Elements](https://learn-with-harsh.hashnode.dev/understanding-html-tags-and-elements)
+
+  <a href="https://learn-with-harsh.hashnode.dev/understanding-html-tags-and-elements">
+      <p align=center>
+      <img width = "500px" alt="Connect a Custom Domain to Hashnode!" src="./assets/b12-banner.png">
+    <p>
+  </a>
+
+<br>
+
 ### Contributions & Feedback
 
 Constructive feedback, suggestions, and improvements are welcome.  
