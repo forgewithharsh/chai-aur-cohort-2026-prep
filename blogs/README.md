@@ -35,7 +35,8 @@ These blogs focus on **core web concepts, networking fundamentals, and essential
 ### 4. HTML / CSS
 - Emmet in HTML for Beginners  
 - Understanding HTML Tags and Elements  
-- CSS Selectors 101: Targeting Elements with Precision  
+- CSS Selectors 101: Targeting Elements with Precision
+- How a Browser Works: A Beginner-Friendly Guide to Browser Internals
 
 ---
 
