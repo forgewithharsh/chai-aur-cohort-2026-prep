@@ -1,0 +1,38 @@
+#parent{
+    border: 2px solid rgb(238, 73, 73);
+    width:90vw;
+    height: 300px;
+}
+
+.child{
+    border: 2px solid rgb(60, 60, 246);
+
+    height: 40px;
+    width: 40px;
+}
+
+#parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    gap: 2px;
+}
+
+.child-1{
+    flex: 2;
+    order: 1;
+}
+
+.child-2{
+    flex: 1;
+    order: 1;
+}
+
+.child-3{
+    order: 2;
+}
+
+.child-3{
+    order: 2;
+}
