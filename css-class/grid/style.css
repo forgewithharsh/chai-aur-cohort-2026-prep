@@ -9,8 +9,8 @@ body {
   display: grid;
   /* grid-template-rows: 100px 100px 100px;
   grid-template-columns: 100px 100px 100px 100px; */
-  grid-template-rows: repeat(2, 100px);
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(6, 100px);
+  grid-template-columns: 100px 1fr 2fr 1fr;
 
   gap: 5px;
 }
@@ -25,13 +25,21 @@ body {
   align-items: center;
 }
 
-.child-6{
-    grid-row-start: 4;
-
+.child-7{
+  grid-column-start: 2;
+  grid-column-end: -2;
 }
 
-.child-7{
-    grid-column: span 4;
+.child-6{
+    /* grid-row-start: -2;
+    grid-row-end: -1; */
+    /* grid-row: -2 / -1; */
+
+    /* grid-column-start: 3;
+    grid-column-end: 4; */
+    /* grid-column: 3 / 4; */
+
+    grid-area: 4 / 2 / span 2 / span 2;
 }
 
 
