@@ -122,4 +122,10 @@ function map(fn) {
 //   result.push(nums[i] * 2)
 // }
 
-console.log(result);
+// console.log(result);
+
+const number = [3, 10, 24, 90]
+
+const res = number.map(e => e * 10 + 1)
+console.log(res)
+
