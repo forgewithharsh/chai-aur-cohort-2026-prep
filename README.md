@@ -36,8 +36,7 @@
 
 ## Introduction
 
-**Chai Aur Cohort** is a full-stack web development cohort led by  
-**Hitesh Choudhary** Sir and **Piyush Garg** Sir.
+**Chai Aur Cohort** is a full-stack web development cohort led by **Hitesh Choudhary** Sir and **Piyush Garg** Sir.
 
 This repository is created **before the official cohort begins** and is intended purely for **pre-cohort preparation and foundational discipline**.
 
