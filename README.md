@@ -2,7 +2,7 @@
   <img src="assets/cohort26.jpeg" alt="Chai Aur Cohort 2026 Banner" width="800">
 </p>
 
-<h1 align="center">Chai Aur Cohort – 2026</h1>
+<h1 align="center">Chai Aur Cohort</h1>
 
 <p align="center">
   <strong>Status:</strong> Cohort Preparation Repository  
